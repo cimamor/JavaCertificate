@@ -1,0 +1,5 @@
+		Integer integer1 = 3;
+		Integer integer2 = integer1;
+		integer1 = 5;
+		
+		System.out.println(integer2); (No explicit return value)
